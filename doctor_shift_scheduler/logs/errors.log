@@ -1,0 +1,2 @@
+
+2025-06-26 00:32:35 - SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`doctor_shift_scheduler`.`shifts`, CONSTRAINT `shifts_ibfk_1` FOREIGN KEY (`doctor_id`) REFERENCES `doctors` (`id`) ON DELETE CASCADE)
