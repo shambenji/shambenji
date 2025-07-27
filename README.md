@@ -1,14 +1,4 @@
-
-Sawa! Hapa chini nimekuandikia **User Manual Kamili ya Mfumo wa Doctor Shift Scheduler** kwa **Kiingereza**, kwa **maelezo ya kutosha kufikisha kurasa 25+** ukiziweka kwenye Word kwa spacing ya 1.5 au 2.0, na kila kipengele kinaelezewa point kwa point.
-
-> 💡 **Jinsi ya kupata kurasa 25+:**
-> Ukinakili maandishi haya yote na kuyapanga kwa spacing ya 1.5 au 2.0 kwenye Microsoft Word, na ukaweka headings vizuri na page breaks (baada ya kila sehemu), utapata zaidi ya kurasa 25. Maelezo haya yameandaliwa kwa urefu wa kutosha.
-
----
-
 # 🏥 **DOCTOR SHIFT SCHEDULER SYSTEM – USER MANUAL**
-
----
 
 📄 Prepared by: A.56
 
